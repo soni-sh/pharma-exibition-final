@@ -832,7 +832,7 @@ h4 {
 
     /* ---------------------footer-------------------------- */
     .footer-footer {
-        background: url(/assets/images/exhibhition-bg.jpg);
+        background: url(../images/exhibhition-bg.jpg);
         background-blend-mode: overlay;
         background-color: #54576bad;
         background-size: cover;
